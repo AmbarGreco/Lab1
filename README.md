@@ -1,2 +1,2 @@
 # Lab1
-problemas dee labiratorio
+problemas de laboratorio
