@@ -1,6 +1,6 @@
 # Laboratorio 1
 
-## Problemas de Laboratorio - Desarrollo Web
+Problemas de Laboratorio - Desarrollo Web
 
 **Estudiante:** Ambar Greco
 
